@@ -2,7 +2,8 @@
 - 👀 I’m interested in  Java
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫  I can be contacted via twitter address: https://twitter.com/RinoChan_Elaina
+- 📫  I can be contacted via twitter address: https://twitter.com/RinoChan_Saya
+- 
 
 <!---
 RinoElaina/RinoElaina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
